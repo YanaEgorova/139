@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Mukta Bold';
+    src: url('../../fonts/Mukta-Bold.eot');
+    src: url('../../fonts/Mukta-Bold.eot') format('embedded-opentype'),
+        url('../../fonts/Mukta-Bold.woff2') format('woff2'),
+        url('../../fonts/Mukta-Bold.woff') format('woff'),
+        url('../../fonts/Mukta-Bold.ttf') format('truetype'),
+        url('../../fonts/Mukta-Bold.svg') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gloria Hallelujah';
+    src: url('../../fonts/GloriaHallelujah.eot');
+    src: url('../../fonts/GloriaHallelujah.eot') format('embedded-opentype'),
+        url('../../fonts/GloriaHallelujah.woff2') format('woff2'),
+        url('../../fonts/GloriaHallelujah.woff') format('woff'),
+        url('../../fonts/GloriaHallelujah.ttf') format('truetype'),
+        url('../../fonts/GloriaHallelujah.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mukta';
+    src: url('../../fonts/Mukta-ExtraLight.eot');
+    src: url('../../fonts/Mukta-ExtraLight.eot') format('embedded-opentype'),
+        url('../../fonts/Mukta-ExtraLight.woff2') format('woff2'),
+        url('../../fonts/Mukta-ExtraLight.woff') format('woff'),
+        url('../../fonts/Mukta-ExtraLight.ttf') format('truetype'),
+        url('../../fonts/Mukta-ExtraLight.svg') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
