@@ -2,6 +2,9 @@
 .about {
     padding: 5rem 0 15rem;
 }
+.ingredients {
+    text-align: center;
+}
 .about .sub-title {
     font-family: var(--main-title-font);
     position: relative;
